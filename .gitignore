@@ -2,10 +2,15 @@
 .sass-cache/
 /build/
 /gen/
+note/
 clox
 *.class
-exercises/chapter01_introduction/3/linked_list
+exercises/
 .idea/
+
+*.exe
+launch.json
+tasks.json
 
 # I keep a scratch file at the top level to try stuff out.
 temp.lox
